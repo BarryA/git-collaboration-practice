@@ -1,1 +1,5 @@
-README for Git Workflow
+#README for Git Workflow
+
+##Collaborators
+-Cameron
+-Barry
